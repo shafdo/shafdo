@@ -1,4 +1,4 @@
-## Heyyy 👋, welcome to my GitHub profile ❤️.
+## Hellooo 👋, welcome to my GitHub profile ❤️.
 
 <br>
 <p align="center">
