@@ -12,7 +12,7 @@
 * 🐱‍👤 Participate in CTF events.
 * 👨‍💻 Code & looking forward to contribute.
 * 💪 A Fitness lover.
-* 🤘 Punk rock fan.
+* 🤘 Punk music fan.
 
 
 ## Connect with me:
