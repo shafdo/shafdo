@@ -6,8 +6,6 @@
 </p>
 <br>
 
-
-
 ### I'm Shalinda Fernando AKA Shafdo. I like to:
 
 * 💉 Learn to break stuff and fix the stuff that breaks.
