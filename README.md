@@ -10,11 +10,11 @@
 
 ### I'm Shalinda Fernando AKA Shafdo. I like to:
 
-* Learn to break stuff and fix the stuff that breaks 💉.
-* Participate in CTF events 🐱‍👤.
-* Code & looking forward to contribute 👨‍💻.
-* A Fitness lover 💪.
-* Hike 🥾
+* 💉 Learn to break stuff and fix the stuff that breaks.
+* 🐱‍👤 Participate in CTF events.
+* 👨‍💻 Code & looking forward to contribute.
+* 💪 A Fitness lover.
+* 🥾 Hike
 
 
 ## Connect with me:
