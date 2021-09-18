@@ -1,5 +1,4 @@
-
-### Hellooo there 👋, Welcome to my GitHub profile.
+### Hellooo there 👋, Welcome to my profile.
 
 <br>
 <p align="center">
@@ -18,4 +17,3 @@
 ### Connect with me:
 
 [<img align="left" alt="shalindafernando.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
