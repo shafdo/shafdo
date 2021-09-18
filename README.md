@@ -1,8 +1,8 @@
-## Hellooo there 👋, Welcome to my GitHub profile.
+## Heyyy 👋, welcome to my GitHub profile ❤️.
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=dracula&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=onedark&show_icons=true">
 </p>
 <br>
 
