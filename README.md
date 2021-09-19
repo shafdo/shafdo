@@ -1,18 +1,19 @@
 ## Hellooo 👋, welcome to my GitHub profile ❤️.
 
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=dracula&show_icons=true">
-</p>
-<br>
+<details open>
+    <summary>Stats 📊</summary>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=dracula&show_icons=true">
+    <br>
+</details>
 
 ### I'm Shalinda Fernando AKA Shafdo. I like to:
 
 * 💉 Learn to break stuff and fix the stuff that breaks.
 * 🐱‍👤 Participate in CTF events.
-* 👨‍💻 Code & looking forward to contribute.
+* 👨‍💻 Code and make stuff work as they are supposed to.
 * 💪 A Fitness lover.
-* 🤘 Punk music fan.
+* 🤘 A fan of Punk Rock music.
 
 
 ## Connect with me:
