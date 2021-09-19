@@ -3,7 +3,7 @@
 <details open>
     <summary>Stats 📊</summary>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=dracula&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=shafdo&theme=dracula&show_icons=true&hide=prs">
     <br>
 </details>
 
