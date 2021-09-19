@@ -30,6 +30,7 @@
     <img alt="linkedin" width="75px" src="https://raw.githubusercontent.com/shafdo/shafdo/master/assets/linkedin.svg" />
 </a>
 
+<br>
 
 ## [+] Languages and Tools:
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/shafdo#-languages-and-tools)
