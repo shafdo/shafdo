@@ -16,14 +16,14 @@
 * 🤘 A fan of Punk Rock music.
 
 
-## Connect with me:
+## [+] Connect with me:
 
 [<img align="left" alt="shalindafernando.com" width="75px" src="https://raw.githubusercontent.com/shafdo/shafdo/master/assets/moon.svg" />](https://shalindafernando.com)
 [<img align="left" alt="shalindafernando.com" width="75px" src="https://raw.githubusercontent.com/shafdo/shafdo/master/assets/twitter.svg" />](https://twitter.com/ShalindaFdo)
 [<img align="left" alt="shalindafernando.com" width="75px" src="https://raw.githubusercontent.com/shafdo/shafdo/master/assets/discord.svg" />](https://discordapp.com/users/685534271837962277)
 [<img alt="shalindafernando.com" width="75px" src="https://raw.githubusercontent.com/shafdo/shafdo/master/assets/linkedin.svg" />](https://www.linkedin.com/in/shalinda-fernando/)
 
-## Languages and Tools:
+## [+] Languages and Tools:
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
