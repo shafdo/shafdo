@@ -89,7 +89,7 @@ ____
     </p>
 </div>
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shafdo&bg_color=0d1117&color=55a84a&line=55a84a&point=ddd" alt="activity-graph" width="86%" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=shafdo&bg_color=0d1117&color=55a84a&line=55a84a&point=ddd" alt="activity-graph" width="90%" />
 </p>
 
 
