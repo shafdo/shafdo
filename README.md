@@ -2,7 +2,9 @@
 
 <h2 align="center">What's up  🤟, I'm Shalinda Fernando 😁.</h2>
 
-
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
+</p>  
 
 <h3 align="center">I also go in the 🕸️ with the names => <i>shafdo</i> / <i>shasec</i></h3>
 <h3 align="center">⬇️ I'm passionate & interested in ⬇️</h3>  
