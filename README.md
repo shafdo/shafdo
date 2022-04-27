@@ -2,9 +2,7 @@
 
 <h2 align="center">What's up  🤟, I'm Shalinda Fernando 😁.</h2>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
-</p>  
+
 
 <h3 align="center">I also go in the 🕸️ with the names => <i>shafdo</i> / <i>shasec</i></h3>
 <h3 align="center">⬇️ I'm passionate & interested in ⬇️</h3>  
@@ -84,8 +82,8 @@ ____
 <h2 align="center">🤓 Stats For Nerds 🤓</h2>  
 <div style="display: flex;">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shafdo&show_icons=true&locale=en" alt="shafdo" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafdo&" alt="shafdo" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shafdo&show_icons=true&locale=en" alt="shafdo" width="45%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafdo&" alt="shafdo" width="45%" />
     </p>
 </div>
 <p align="center">
