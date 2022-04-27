@@ -2,14 +2,12 @@
 
 <h2 align="center">What's up  🤟, I'm Shalinda Fernando 😁.</h2>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
-</p>  
+
 
 <h3 align="center">I also go in the 🕸️ with the names => <i>shafdo</i> / <i>shasec</i></h3>
 <h3 align="center">⬇️ I'm passionate & interested in ⬇️</h3>  
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Explore+the+field+of+computer+security+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Coding+on+fun+projects+%F0%9F%94%A5;Exploring+the+world+and+new+cultures+%F0%9F%8C%90;Working+out+to+get+shredded+%F0%9F%92%AA;Play+CTFs+%F0%9F%8F%81"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?duration=6000&color=FFC83D&center=true&vCenter=true&width=500&lines=Explore+the+field+of+computer+security+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;+Coding+on+fun+projects+%F0%9F%94%A5;Exploring+the+world+and+new+cultures+%F0%9F%8C%90;Playing+CTFs+%F0%9F%8F%81;Working+out+to+get+shredded+%F0%9F%92%AA+"> </p>
   
 ____
 
