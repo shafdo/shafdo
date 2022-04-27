@@ -82,8 +82,8 @@ ____
 <h2 align="center">🤓 Stats For Nerds 🤓</h2>  
 <div style="display: flex;">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shafdo&show_icons=true&locale=en" alt="shafdo" width="50%" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafdo&" alt="shafdo" width="50%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shafdo&show_icons=true&locale=en" alt="shafdo" width="45%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafdo&" alt="shafdo" width="45%" />
     </p>
 </div>
 <p align="center">
