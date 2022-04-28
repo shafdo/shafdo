@@ -96,7 +96,7 @@ ____
 <br>
 
 <h2 align="left">🤝 Support 🤝</h2>  
-<p>If you like and enjoy my work, please consider supporting if you can 😀. </p>
+<p>If you like and enjoy my work, consider supporting if you can 😀. </p>
 <p><a href="https://www.buymeacoffee.com/shafdo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shafdo" /></a></p>
   
  <br><br>  
