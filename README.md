@@ -46,9 +46,9 @@ ____
 
 <div style="display:flex">
     <p align="center">
-        <img src="https://svgshare.com/i/gi3.svg" alt="arrow" width="15%" />
+        <img src="https://svgur.com/i/gj5.svg" alt="arrow" width="15%" />
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=bhfe0jrhg349inb1gqap2i1fc&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" alt="spotify"> 
-        <img src="https://svgshare.com/i/giC.svg" alt="arrow" width="15%" />
+        <img src="https://svgur.com/i/gj5.svg" alt="arrow" width="15%" />
     </p>
 </div>
 
