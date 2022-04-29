@@ -20,18 +20,16 @@ ____
 <br>
 <table border="0" width="100">
     <tr border="0">
-        <td border="0"><h2 border="0" align="center">Blog</h2></td>
-        <td border="0"><h2 border="0" align="center">Contact</h2></td>
+        <td border="0"><h2 border="0" align="center">📰 Blog</h2></td>
+        <td border="0"><h2 border="0" align="center">📶 Contact</h2></td>
     </tr border="0">
     <tr border="0">
         <td border="0">
-            <h1 align="center" border="0">📰</h1>
             <p>✨ The blog I'm working on currently: <a href="https://shasec.rocks" target="_blank">https://blog.shasec.rocks</a></p>
             <p>🌟 My old blog. My respect goes to it: <a href="https://shalindafernando.com" target="_blank">https://shalindafernando.com</a></p>
         </td>
         <td border="0">
-            <br>
-            <h1 align="center" border="0">📶</h1>
+            <br><br>
             <p>I'm mostly online on the following social media platforms. Feel free to contact me: &emsp;&emsp;&emsp;&emsp;</p>
             <div style="display: flex; justify-content: space-around;">
                 <a href="https://twitter.com/ShalindaFdo" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" style="margin-left: 10px;"></a>
@@ -43,6 +41,16 @@ ____
         </td>
     </tr>
 </table>
+
+<br>
+
+<div style="display:flex">
+    <p align="center">
+        <img src="https://svgshare.com/i/gi3.svg" alt="arrow" width="15%" />
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=bhfe0jrhg349inb1gqap2i1fc&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" alt="spotify"> 
+        <img src="https://svgshare.com/i/giC.svg" alt="arrow" width="15%" />
+    </p>
+</div>
 
 ____
 <br>
