@@ -20,8 +20,8 @@ ____
 <br>
 <table border="0" width="100">
     <tr border="0">
-        <td border="0"><h2 border="0" align="center">📰 Blog</h2></td>
-        <td border="0"><h2 border="0" align="center">📶 Contact</h2></td>
+        <td border="0"><h2 border="0" align="center">📰 Blog 📰</h2></td>
+        <td border="0"><h2 border="0" align="center">📶 Contact 📶</h2></td>
     </tr border="0">
     <tr border="0">
         <td border="0">
