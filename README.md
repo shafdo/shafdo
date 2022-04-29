@@ -31,13 +31,15 @@ ____
         <td border="0">
             <br><br>
             <p>I'm mostly online on the following social media platforms. Feel free to contact me: &emsp;&emsp;&emsp;&emsp;</p>
-            <div style="display: flex; justify-content: space-around;">
-                <a href="https://twitter.com/ShalindaFdo" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" style="margin-left: 10px;"></a>
+            <div style="display: flex;">
+                <p align="center">
+                    <a href="https://twitter.com/ShalindaFdo" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" style="margin-left: 10px;"></a>
                 <a href="https://www.linkedin.com/in/shalinda-fernando/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" style="margin-left: 10px;"></a>
                 <a href="https://discordapp.com/users/685534271837962277" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" style="margin-left: 10px;"></a>
-                <br><br>
-                <p>Reach me via email: <a href="mailto:me@shasec.rocks" target="_blank">me@shasec.rocks</a></p>
+                </p>
             </div>
+            <br>
+            <p>Reach me via email: <a href="mailto:me@shasec.rocks" target="_blank">me@shasec.rocks</a></p>
         </td>
     </tr>
 </table>
