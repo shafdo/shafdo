@@ -52,6 +52,7 @@ ____
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=bhfe0jrhg349inb1gqap2i1fc&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" alt="spotify"> 
         <img src="https://i.ibb.co/hFDrvSn/Rock-On-svg.png" alt="arrow" width="15%" />
     </p>
+    <p align="center"><b>((music-is-my) => {<i> escape </i>})()</b></p>
 </div>
 
 ____
