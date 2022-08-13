@@ -1,6 +1,6 @@
 
 
-<h2 align="center">What's up  🤟, I'm Shalinda Fernando 😁.</h2>
+<h2 align="center">What's up  🤟, I'm Shalinda Fernandes 😁.</h2>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
