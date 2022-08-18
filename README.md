@@ -58,7 +58,7 @@ ____
 ____
 <br>
 
-<h2 align="center">🔥 Weapons I can play with ️🔥</h2>
+<h2 align="center">⚔️ Weapons I can play with ️⚔️</h2>
 
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
