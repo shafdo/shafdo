@@ -6,7 +6,12 @@
     <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
 </p>  
 
-<h3 align="center">I surf the 🕸️ as => <i>shafdo</i> / <i>shasec</i></h3>
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/30050702/187090577-859b8452-ecc8-4e76-af62-944cb7e0a7cd.png" alt="Ninja icons created by juicy_fish - Flaticon" width="85" /> 
+</p>  
+
+
+<h3 align="center">My alter egos => <i>shafdo</i> / <i>shasec</i></h3>
 <h3 align="center">⬇️ I'm passionate & interested in ⬇️</h3>  
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=55A84A&center=true&width=500&lines=Explore+the+field+of+computer+security+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Coding+on+fun+projects+%F0%9F%94%A5;Exploring+the+world+and+new+cultures+%F0%9F%8C%90;Working+out+to+get+shredded+%F0%9F%92%AA;Playing+CTFs+%F0%9F%8F%81"> </p>
