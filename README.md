@@ -184,9 +184,6 @@ ____
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> 
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/373458/aws.svg" alt="azure" width="40" height="40"/> 
-    </a>
 </p>  
 
 <h3 align="right">Scripting & Automation</h3>
