@@ -111,7 +111,10 @@ ____
         <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="jQuery" width="40" height="40"/> 
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/354259/react.svg" alt="jQuery" width="40" height="40"/> 
+        <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="40" height="40"/> 
+    </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="Angular" width="40" height="40"/> 
     </a>
 </p>
 
