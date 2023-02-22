@@ -3,9 +3,9 @@
 
 <h2 align="center">What's up  🤟, I'm Shalinda Fernando 😁.</h2>
 
-<p align="center"> 
+<!--<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=shafdo&label=Profile%20views&color=0e75b6&style=flat" alt="shafdo" /> 
-</p>  
+</p>  -->
 
 <p align="center"> 
     <img src="https://user-images.githubusercontent.com/30050702/187090577-859b8452-ecc8-4e76-af62-944cb7e0a7cd.png" alt="Ninja icons created by juicy_fish - Flaticon" width="85" /> 
