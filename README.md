@@ -70,8 +70,9 @@ ____
 ____
 <br>
 
-<h2 align="center">⚔️ Weapons I can play with ️⚔️</h2>
-<h3 align="left">Programming Languages</h3>
+<h2 align="center">⚔️ Things I'm familiar and can work with ️⚔️</h2>
+<h2 align="left">General</h2>
+<p>Studied in university. Beginner to intemediate knowledge.</p>
 <p align="left" style="display: flex;"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" alt="c" width="40" height="40"/> 
@@ -79,18 +80,9 @@ ____
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" alt="c++" width="40" height="40"/> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="40" height="40"/> 
-    </a>
 </p>
 
-<h3 align="right">Frontend</h3>
+<h2 align="right">Frontend</h2>
 <p align="right">👉 CSS 👈</p>
 <p align="right" style="display: flex;"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -125,7 +117,7 @@ ____
     </a>
 </p>
 
-<h3 align="left">Backend</h3>
+<h2 align="left">Backend</h2>
 <p align="left">👉 Backend Langs 👈</p>
 <p align="left" style="display: flex;"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -150,7 +142,8 @@ ____
     </a>
 </p>
     
-<h3 align="right">Databases</h3>
+<h2 align="right">Databases</h2>
+<p align="right">Relational Databases</p>
 <p align="right" style="display: flex;"> 
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -170,6 +163,10 @@ ____
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
     </a>
+</p>
+
+<p align="right">NoSQL Databases</p>
+<p align="right" style="display: flex;"> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/firebase.svg" alt="firebase" width="40" height="40"/> 
     </a>
@@ -178,7 +175,7 @@ ____
     </a>
 </p>
 
-<h3 align="left">Deployments</h3>
+<h2 align="left">Deployments</h2>
 <p align="left" style="display: flex;"> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/heroku.svg" alt="heroku" width="40" height="40"/> 
@@ -191,21 +188,21 @@ ____
     </a>
 </p>
 
-<h3 align="right">Server Administration</h3>
+<h2 align="right">Server Administration</h2>
 <p align="right" style="display: flex;"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
 </p>
 
-<h3 align="left">Cloud</h3>
+<h2 align="left">Cloud</h2>
 <p align="left" style="display: flex;"> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303372/azure-1-logo.svg" alt="azure" width="40" height="40"/> 
     </a>
 </p>  
 
-<h3 align="right">Scripting & Automation</h3>
+<h2 align="right">Scripting & Automation</h2>
 <p align="right" style="display: flex;"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" alt="python" width="40" height="40"/> 
@@ -215,7 +212,7 @@ ____
     </a>
 </p>
 
-<h3 align="left">CMS / Blog Management</h3>
+<h2 align="left">CMS / Blog Management</h2>
 <p align="left" style="display: flex;"> 
     <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
@@ -225,14 +222,13 @@ ____
     </a>
 </p>
 
-<h3 align="right">Software Version Control</h3>
+<h2 align="right">Software Version Control</h2>
 <p align="right" style="display: flex;"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
 </p>  
 
-____
 <br>
   
 <h2 align="left">🤓 Stats For Nerds 🤓</h2>  
