@@ -71,7 +71,7 @@ ____
 <br>
 
 <h2 align="center">⚔️ Things I'm familiar and can work with ️⚔️</h2>
-<h2 align="left">General</h2>
+<h2 align="left">Programming Principles</h2>
 <p>Studied in university. Beginner to intemediate knowledge.</p>
 <p align="left" style="display: flex;"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
