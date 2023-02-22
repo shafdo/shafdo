@@ -145,7 +145,7 @@ ____
 </p>
     
 <h2 align="right">Databases</h2>
-<p align="right">Relational Databases</p>
+<p align="right">👉 Relational Databases 👈</p>
 <p align="right" style="display: flex;"> 
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -167,7 +167,7 @@ ____
     </a>
 </p>
 
-<p align="right">NoSQL Databases</p>
+<p align="right">👉 NoSQL Databases 👈</p>
 <p align="right" style="display: flex;"> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/firebase.svg" alt="firebase" width="40" height="40"/> 
