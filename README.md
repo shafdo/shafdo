@@ -126,19 +126,25 @@ ____
 </p>
 
 <h3 align="left">Backend</h3>
+<p align="left">👉 Backend Langs 👈</p>
 <p align="left" style="display: flex;"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="40" height="40"/> 
     </a>
+</p>
+
+<p align="left">👉 Testing 👈</p>
+<p align="left" style="display: flex;"> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a>
-    <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="postman" width="40" height="40"/> 
-    </a>
+</p>
+    
+<p align="left">👉 Query Langs 👈</p>
+<p align="left" style="display: flex;"> 
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://graphql.org/img/brand/logos/logo.svg" alt="GrapQL" width="40" height="40"/> 
     </a>
