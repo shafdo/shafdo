@@ -231,7 +231,7 @@ ____
 
 <br>
   
-<h2 align="left">🤓 Stats For Nerds 🤓</h2>  
+<h2 align="center">🤓 Stats For Nerds 🤓</h2>  
 <div style="display: flex;">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=shafdo&bg_color=fffefe&text_color=048c1b&title_color=048c1b" alt="shafdo" width="45%" />
@@ -239,7 +239,7 @@ ____
     </p>
 </div>
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shafdo&bg_color=fffefe&color=55a84a&line=55a84a&point=08801c" alt="activity-graph" width="90%" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shafdo&bg_color=fffefe&color=55a84a&line=55a84a&point=08801c" alt="activity-graph" width="90%" />
 </p>
 
 
