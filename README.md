@@ -24,6 +24,10 @@ ____
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafdo" alt="shafdo" /></a> </p>  
 
 <br>
+____
+
+
+<!--
 <table border="0" width="100">
     <tr border="0">
         <td border="0"><h2 border="0" align="center">📰 Blog 📰</h2></td>
@@ -49,6 +53,7 @@ ____
         </td>
     </tr>
 </table>
+-->
 
 <br>
 
