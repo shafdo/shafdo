@@ -138,8 +138,11 @@ ____
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="postman" width="40" height="40"/> 
     </a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://graphql.org/img/brand/logos/logo.svg" alt="GrapQL" width="40" height="40"/> 
+    </a>
 </p>
-
+    
 <h3 align="right">Databases</h3>
 <p align="right" style="display: flex;"> 
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
