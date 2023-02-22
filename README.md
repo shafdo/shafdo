@@ -80,6 +80,9 @@ ____
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" alt="c++" width="40" height="40"/> 
     </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="40" height="40"/> 
+    </a>
 </p>
 
 <h2 align="right">Frontend</h2>
@@ -123,9 +126,6 @@ ____
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="40" height="40"/> 
-    </a>
 </p>
 
 <p align="left">👉 Testing 👈</p>
@@ -133,8 +133,10 @@ ____
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.svg" alt="Jest" width="40" height="40"/> 
+    </a>
 </p>
-    
 <p align="left">👉 Query Langs 👈</p>
 <p align="left" style="display: flex;"> 
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
