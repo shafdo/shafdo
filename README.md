@@ -237,7 +237,7 @@ ____
 <div style="display: flex;">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=shafdo&bg_color=fffefe&text_color=048c1b&title_color=048c1b" alt="shafdo" width="45%" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafdo&date_format=M%20j%5B%2C%20Y%5D&background=FFFEFE&fire=048c1b&ring=048c1b&currStreakLabel=048c1b" alt="shafdo" width="45%" />
+        <img src="https://streak-stats.demolab.com?user=shafdo&background=FFFEFE&fire=048C1B&ring=048C1B&currStreakLabel=048C1B" alt="shafdo" width="45%" />
     </p>
 </div>
 <p align="center">
