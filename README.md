@@ -12,7 +12,7 @@
 </p>  
 
 
-<h3 align="center">Alter => <i>shafdo</i> , <i>shasec</i> <= Egos</h3>
+<h3 align="center"><i>shafdo</i></h3>
 <h3 align="center">⬇️ I'm passionate & interested in ⬇️</h3>  
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=55A84A&center=true&width=500&lines=Explore+the+field+of+computer+security+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Coding+on+fun+projects+%F0%9F%94%A5;Exploring+the+world+and+new+cultures+%F0%9F%8C%90;Working+out+to+get+shredded+%F0%9F%92%AA;Playing+CTFs+%F0%9F%8F%81"> </p>
@@ -115,6 +115,9 @@ ____
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React" width="40" height="40"/> 
     </a>
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/354416/svelte-icon.svg" alt="Svelte" width="40" height="40"/> 
+    </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" alt="Angular" width="40" height="40"/> 
     </a>
@@ -125,6 +128,9 @@ ____
 <p align="left" style="display: flex;"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40"/> 
     </a>
 </p>
 
